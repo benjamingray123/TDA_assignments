@@ -1,6 +1,4 @@
-play = True
-
-while play:
+while True:
     exclamation = input('enter an exclamation! ')
     adverb = input('enter an adverb ')
     noun = input('enter a noun ')
